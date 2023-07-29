@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "M5sGgsI8EIy1JmMoqankgFJHejjeUINEKEZQfwPpmzw=",
+  "Source": "Staticfile",
+  "BasePath": "_content/Staticfile",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Staticfile\\wwwroot",
+      "Source": "Staticfile",
+      "ContentRoot": "C:\\Users\\Tuan\\Desktop\\ASP.NET CORE\\Staticfile\\Staticfile\\wwwroot\\",
+      "BasePath": "_content/Staticfile",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Tuan\\Desktop\\ASP.NET CORE\\Staticfile\\Staticfile\\wwwroot\\index.html",
+      "SourceId": "Staticfile",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Tuan\\Desktop\\ASP.NET CORE\\Staticfile\\Staticfile\\wwwroot\\",
+      "BasePath": "_content/Staticfile",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

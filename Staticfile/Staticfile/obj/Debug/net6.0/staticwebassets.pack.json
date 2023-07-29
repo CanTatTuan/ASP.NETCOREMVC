@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Tuan\\Desktop\\ASP.NET CORE\\Staticfile\\Staticfile\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Staticfile.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Staticfile.props",
+      "PackagePath": "build\\Staticfile.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Staticfile.props",
+      "PackagePath": "buildMultiTargeting\\Staticfile.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Staticfile.props",
+      "PackagePath": "buildTransitive\\Staticfile.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
